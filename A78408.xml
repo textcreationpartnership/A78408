@@ -1,0 +1,413 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Cavaliers new common-prayer booke unclasp't. It being a collection of prayers and thanksgivings, used in His Majesties chappell, and in his armies. Upon occasion of the late (supposed) victories against the Parliaments forces, and for the future successe of the Cavalier forces. Published by his Majesties command, to be duely read in all other churches and chappells within this his kingdome, and dominion of Wales.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 51 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78408</idno>
+            <idno type="STC">Wing C1578</idno>
+            <idno type="STC">Thomason E8_18</idno>
+            <idno type="STC">ESTC R2412</idno>
+            <idno type="EEBO-CITATION">99872054</idno>
+            <idno type="PROQUEST">99872054</idno>
+            <idno type="VID">124475</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78408)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 124475)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 2:E8[18])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Cavaliers new common-prayer booke unclasp't. It being a collection of prayers and thanksgivings, used in His Majesties chappell, and in his armies. Upon occasion of the late (supposed) victories against the Parliaments forces, and for the future successe of the Cavalier forces. Published by his Majesties command, to be duely read in all other churches and chappells within this his kingdome, and dominion of Wales.</title>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>by G.B. with some briefe and necessary observations, to refute the lyes and scandalls that are contained in it,</publisher>
+                  <pubPlace>[London]Printed at York, by Stephen Buckley, 1644. And reprinted at London, :</pubPlace>
+                  <date>1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Sept. 9th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Liturgy --  Humor.</term>
+               <term>Prayers --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-10</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:124475:1" rendition="simple:additions"/>
+            <p>THE CAVALIERS NEW COMMON-PRAYER BOOKE <hi>
+                  <g ref="char:V">Ʋ</g>nclaſp't.</hi>
+            </p>
+            <p>It being a Collection of <hi>Prayers</hi> and <hi>Thankſ<g ref="char:EOLhyphen"/>givings,</hi> uſed in His Majeſties Chappell, and in his Armies.</p>
+            <p>
+               <hi>
+                  <g ref="char:V">Ʋ</g>pon occaſion of the late</hi> (ſuppoſed) <hi>Victories againſt the Parliaments forces, and for the future ſucceſſe of the Cavalier Forces.</hi>
+            </p>
+            <p>Publiſhed By his Majeſties Command, to be duely read in all other Churches and Chappells within this his Kingdome, and Dominion of <hi>Wales.</hi>
+            </p>
+            <p>Printed at <hi>York,</hi> by <hi>Stephen Buckley,</hi> 1644. <hi>AND</hi> Reprinted at <hi>London,</hi> by <hi>G. B.</hi> with ſome briefe and neceſſary <hi>Obſervations,</hi> to refute the Lyes and Scandalls that are con<g ref="char:EOLhyphen"/>tained in it. 1644.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb n="2" facs="tcp:124475:2"/>
+            <opener>
+               <salute>Benevolent Reader,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">Y</seg>O<g ref="char:V">Ʋ</g> have often heard heretofore of the Cavaliers Thanksgivings in <hi>Oxford,</hi> and other places, for their pretended Conquests, but you may remember, that they were firſt well cudgelled into them, as <hi>Britanicus</hi> long ſince wittily obſerved. And if you have had a longing deſire to ſee the tenour and Contents of their gratefulneſſe, be<g ref="char:EOLhyphen"/>hold here a Hotch-potch of Epiſcopall and Cavalier mock-Prayers, and Thanksgivings, for their No-Victories, but ſound beatings at <hi>Edge-hill,</hi> in the <hi>VVeſt,</hi> and in the <hi>North,</hi> which being brought from <hi>York,</hi> ſince the Reddition thereof to the obedience of the King and Parliament, I thought it unfit to conceale it from you, in regard of the tranſcendent lying, diſſimulation, and mocking of God, with comple<g ref="char:EOLhyphen"/>mentall Prayers, and deluſive Thanksgivings contained in it. Moſt miſerable muſt thoſe men be, whoſe very Devotions are ſimulated and hypocriticall and a greater ſinne for them to pray in the manner they doe, then not to pray, But read Prayers, or ſay Prayers they doe, and it is a queſtion, whether with greater impudence, or ignorance: but no matter for that with them, as long as they can thereby worke ſo great an advan<g ref="char:EOLhyphen"/>tage in the credulous peoples minds, as when they ſay, or pipe out their Prayers for the King, againſt his beſt Subjects, they make ſilly people beleeve, that they are the onely men which, love and honour the King, and all elſe Rebells, and ſuch as ſeek to destroy him.</p>
+            <p>Moreover, if at any time they are ſoundly bang'd, preſently they mock God and the people with a Thanksgiving, according to the Spaniſh Jeſuited cuſtome: onely here is the difference, the Almighty lothes and abhorres ſuch ſimulated ſanctity for their de<g ref="char:EOLhyphen"/>feates and overthrowes, and the ſeduced people beleeve, and admire it.</p>
+            <p>Thus they enſnare the Kings Subjects, and lead them with a ſhew of devotion into deſtruction, to make them adventure their lives and Eſtates againſt God, the true Pro<g ref="char:EOLhyphen"/>teſtant Religion, and the Parliament, the ſole upholder of Liberty and Property, which, had it not to this day ſtood firme againſt all ſtormes and tempeſts, our Religion, Liber<g ref="char:EOLhyphen"/>ty and Property, had long ſince been trampled upon by Popery and Tyrannie.</p>
+            <p>Prayer and Thanksgiving, which are the Preſervatives, they make the very bane of their ſouls, and all by the powerfull influence of the Prelatical Prieſts, who draw the ig<g ref="char:EOLhyphen"/>norant people to their deſires, as will appeare by theſe enſuing Reſponds (according to the old Popiſh Order) between <hi>Prieſt</hi> and <hi>People.</hi> But not to detain: you with any longer Prologue from this new Parcell of Mockery, and Jeſuited Popery, as bad as any in the Maſſe-book, ſee here their Prayers, and Thankſgivings, in the ſame Ord<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r they were printed at <hi>York,</hi> in this very yeere. <hi>1644.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="prayers">
+            <pb n="3" facs="tcp:124475:2"/>
+            <div type="prayer">
+               <head>A Prayer for the preſervation of His Majeſties Perſon, and for the Peace of the Kingdome.</head>
+               <sp>
+                  <speaker>PRIEST.</speaker>
+                  <p>O Lord guard the Perſon of thy ſervant the King.</p>
+               </sp>
+               <sp>
+                  <speaker>RIGHT RESPONDS.</speaker>
+                  <p>Prom Ieſuites, Papiſts, Iriſh Rebells, and evill Counſellours about him.</p>
+               </sp>
+               <sp>
+                  <speaker>People.</speaker>
+                  <p>Who putteth his truſt in thee.</p>
+               </sp>
+               <sp>
+                  <speaker>Reſp.</speaker>
+                  <p>Not wee hope, in the arme of Fleſh, as Cavaliers, Delinquents, and ſuch enemies to the Kingdom.</p>
+               </sp>
+               <sp>
+                  <speaker>PRIEST.</speaker>
+                  <p>Send him and his Armies help from thy holy Place.</p>
+               </sp>
+               <sp>
+                  <speaker>Reſp.</speaker>
+                  <p>Not from Denmark, Belgia, France, Spaine, and Ireland.</p>
+               </sp>
+               <sp>
+                  <speaker>People.</speaker>
+                  <p>And evermore mightily defend them.</p>
+               </sp>
+               <sp>
+                  <speaker>Reſp.</speaker>
+                  <p>From the inſinuations of Incendiaries, and other promoters of this Warre.</p>
+               </sp>
+               <sp>
+                  <speaker>PRIEST.</speaker>
+                  <p>Confound the deſignes of all thoſe that are riſen up againſt him.</p>
+               </sp>
+               <sp>
+                  <speaker>Reſp.</speaker>
+                  <p>To withdraw him from his Parliament, and the protection of his best Subjects.</p>
+               </sp>
+               <sp>
+                  <speaker>People.</speaker>
+                  <p>And let not their Rebellious wick<g ref="char:EOLhyphen"/>edneſſe approach neer to hurt him.</p>
+               </sp>
+               <sp>
+                  <speaker>Reſp.</speaker>
+                  <p>Nor any more to rob ſpoile, and kill the poore People of this Nation.</p>
+               </sp>
+               <sp>
+                  <speaker>PRIEST.</speaker>
+                  <p>O Lord hear our Prayer.</p>
+               </sp>
+               <sp>
+                  <speaker>Reſp.</speaker>
+                  <p>That our King may ſpeedily returne home from deſtructive miſleaders.</p>
+               </sp>
+               <sp>
+                  <speaker>People.</speaker>
+                  <p>And let our cry come unto thee.</p>
+               </sp>
+               <sp>
+                  <speaker>Reſp.</speaker>
+                  <p>And the Cry of thy Peoples blood in Ireland, and England.</p>
+               </sp>
+               <p>
+                  <hi>O LORD God of Hoſts, who giveſt Victory unto Kings, and didſt deli<g ref="char:EOLhyphen"/>ver</hi> David <hi>thy ſervant from the perill of the ſword, hear us, wee beſeech thee moſt miſerable ſinners,</hi> [in making all the havock and ſpoile in this Kingdome,] <hi>who doe heere poure out our ſoules before thee,</hi> [to be inabled to doe more miſchief] <hi>entirely deſiring the Protection of thine hand upon thy Servant the King: let him find ſafety under the ſhadow of thy wings, and preſerve his Perſon as the apple of thine eye.</hi> [and defend him from adhering any longer to your pernicious wayes and devices.] <hi>Suffer not that ſword, which thou haſt put into his hands, to be wreſted out by the hands of Man:</hi> [the gathering of a Guard in Yorkſhire, and the Welchmens complyance at <hi>Shrewsbury,</hi> put that ſword into his
+<pb n="4" facs="tcp:124475:3"/>
+hands, and not God, who never intended the deſtruction of his true People. [<hi>but bleſſe his Counſells with ſucceſſe,</hi> [let them be never ſo bad, you will tie God by this Prayer, to bleſſe them.] <hi>and his enterpriſes with victory,</hi> [you meane to the deſtruction of the Parliament, and all the true Proteſtants in the three Kingdomes.] <hi>that he may goe on to be a terror to all them that oppoſe him</hi> [againſt the Papiſts Popery and Tyranny.] <hi>and to be as the dew of the latter raine, upon the hearts of all thoſe who doe ſtill remaine Loyall to him.</hi> [though they be Papiſts, bloody Iriſh Rebells, ſwearing debauched Cavaliers, and the pests of his Kingdomes.] <hi>And O thou that takeſt no delight in the miſery of one ſingle ſinner, ſpare mercifull Lord, ſpare a great, though moſt ſinfull Nation, pitty a deſpiſed Church,</hi> [you meane the Pre<g ref="char:EOLhyphen"/>lates and their Hierarchy,] <hi>and a diſtracted State</hi> [made ſo by your wicked party, that have ſet it on fire by an unnaturall Warre, begun by them.] <hi>heale up thoſe wounds which our ſinnes have made ſo wide, that none but thine own hands can cloſe them.</hi> ['tis moſt true, you have made numbers of Women husbandleſſe, and chil<g ref="char:EOLhyphen"/>dren fatherleſſe, your confeſſion and prayer is good, if they be ſincere, which cannot be known to be ſo, unleſſe you ſpeedily deſiſt from making more ſuch wounds.] <hi>And in the tenderneſſe of thine unſpeakable compaſſion, haſten to put ſo happy an end unto theſe waſting diviſions</hi> [why doe you then ſtrive to continue, foment, and increaſe them <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ill? lay down your Armes, if you mean good ſooth and they will ſuddenly ceaſe.] <hi>that thy ſervice may be the more duely celebrated</hi> [with Copes, Organs, outward pompe and Popiſh vain-glory.] <hi>thine Anointed conſcientiouſly obeyed,</hi> [you mean, in whatſoever he ſhall Will and Command.] <hi>that the Church may be reſtored to a true Chriſtian Unity,</hi> [the Prelates, Deanes, and Prebends, being reſetled a<g ref="char:EOLhyphen"/>gain, they onely make the Church in your ſence] <hi>and the Kingdome to her former Peace</hi> [why doe you not quickly return to your homes then? you that firſt began, muſt firſt end: but you intend to exclude Peace from <hi>Scotland</hi> and <hi>Ireland.] and that for his ſake, who is the Prince of Peace, and that ſhed his pretious blood, to pur<g ref="char:EOLhyphen"/>chaſe our peace,</hi> [mel in ore, fel in corde.] <hi>even JESUS CHRIST our Lord, to whom with thee, ô Father, and thy bleſſed Spirit, be, &amp;c.</hi>
+               </p>
+            </div>
+            <div type="prayer">
+               <head>A Prayer of Thanksgiving for His Majesties victorie over the Rebells at <hi>Edge-Hill.</hi>
+               </head>
+               <p>
+                  <hi>O Thou God of Hoſtes, who goeſt forth with our Armies.</hi> [To their de<g ref="char:EOLhyphen"/>ſtruction, for he pleaſed to leave them to themſelves, and to give them up to the ſlaughter of the Parliaments forces in that Battell.] <hi>and pleadeſt the cauſe of thine Anointed againſt them that ſtrive with him,</hi> [if the King had continued with his Parliament, he had been there in no danger, nor ſtriving; but ſelf doe, ſelf have.] <hi>We acknowledge with all lowlineſſe of minde,</hi> [if your loftie ſpirits ſtood not on points of worldly honour to be ſo averſe to peace:] <hi>that it is not our Sword, nor the multitude of our Hoſt that hath ſaved us,</hi> [but your running away in the night af<g ref="char:EOLhyphen"/>ter that Battell:] <hi>but it is thy hand alone that hath diſpoſed of victory to thy
+<pb n="5" facs="tcp:124475:3"/>
+ſervant the King</hi> [and Parliament, for it is moſt certaine that their Forces gained the day there,] <hi>that hath covered his head in the day of Battel,</hi> [the Parliament deſired him before the fight, that he would not mixe the danger of his perſon with thoſe whom they had declared Rebells and Traitors,] <hi>and hath kept his Crowne from be<g ref="char:EOLhyphen"/>ing throwne downe to the ground:</hi> [was it worne there, as <hi>Richard</hi> the third did his at <hi>Boſworth-field?] Not unto us therefore, not unto us, but unto thee, O God, doe we give the praiſe, beſeeching thee to accompliſh the great work thou haſt begun for us,</hi> [aſſuredly God hath taken ſpeciall notice of this abominable mock-prayer, for he hath granted their requeſt, in giving them continuall memorable Routs, and Defeats ever ſince; they prayed for vengeance vpon themſelves. and have conſtant<g ref="char:EOLhyphen"/>ly received it to the full, as at <hi>Newbery, Alrezford, York, &amp;c.] to continue the bleſſing of good ſucceſſe on the head of our Soveraigne, and his Army,</hi> [never may that Army have better ſucceſſe than it had then, according to their prayers.] <hi>that the happines thereof may flow from thence, to the every skirts of his people,</hi> [judge what happineſſe, you that have been plundered, fired, and waſted by that Ar<g ref="char:EOLhyphen"/>mie, have received from it.] <hi>to continue the fear and conſternation, which thou haſt already caſt upon the hearts of thoſe, who have Rebelliouſly riſen up againſt him, to enfeeble their ſtrength, to infatuate their Councels,</hi> [well prayed, for the Lord God hath ſent conſternation, enfeebling, and infatuation upon thoſe that have re<g ref="char:EOLhyphen"/>belliouſly riſen up againſt him, to carry him from his Parliament, and leave the pro<g ref="char:EOLhyphen"/>tecting of his true Proteſtant ſubjects.] <hi>to undeceive, and diſabuſe the ſeduced part of them,</hi> [whom you labour the more to blind and hoodwink] <hi>that they may know and feel, that to take up Armes againſt thy Vicegerent,</hi> [you are deceived, 'tis againſt thoſe that have ſeduced him by evill Counſell, and againſt you that mocke God and the people by theſe ſcandalouſly lying Prayers] <hi>is to fight againſt Heaven,</hi> [you meane the Heaven under <hi>VVeſtminſter-Hall,</hi> for God by his continuall good ſucceſſe given to the Parliaments Forces againſt you, hath declared, that they fight not againſt his Throne.] <hi>that ſo by a timely and conſcientious ſubmiſſion, to the juſt Authoritie of him whom thou haſt ſet over them,</hi> [Submiſſion to the Kings juſt Authoritie was never yet denyed him.] <hi>the effuſion of more blood may be pre<g ref="char:EOLhyphen"/>vented,</hi> [which you have ſhed, up to the horſe bridles ſince.] <hi>the Peace of this diſtracted Kingdom ſetled,</hi> [Peace is in your mouthes, but War is in your hearts] <hi>Faction may be caſt out of the State,</hi> [we ſhould ſoon enioy quiet, if the Spaniſh Faction, were once expelled.] <hi>and Schiſme out of the Church,</hi> [away then with all Papiſts, Prelates, and their Hierarchy.] <hi>to the advancement of thy glory, the Kings Honour, and the Peoples good.</hi> [good words break not the bones.] <hi>Grant this O God, for thy old Mercies ſake which thou wert wont to ſhew unto this Nation, that both Prince and People may joyne in giving praiſe to thee, who liveſt and raigneſt world without end,</hi> Amen.</p>
+               <div type="note">
+                  <p>Reader, obſerve by this mock-prayer, how ſenceleſſe theſe men are, that could be ſo wofully beaten at <hi>Edge-Hill,</hi> and never feele it; that they ſhould loſe their Generall in the heapes
+<pb n="6" facs="tcp:124475:4"/>
+of ſome thouſands of their ſlaine, and be forced to leave the Field to the Parliaments For<g ref="char:EOLhyphen"/>ces, and run away in the night, and never know it, but remaine in an abuſive opinion of Victory, and Celebrate a Feſtivall in ſtead of a Funerall, and labour to hea<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> themſelves and the world with a mock-Thankſ-giving. But you muſt underſtand, that their policy was, to uphold the drooping and fainting ſpirits of their beaten party, by this ſubtile Spa<g ref="char:EOLhyphen"/>niſh trick</p>
+               </div>
+            </div>
+            <div type="prayer">
+               <head>A Thankſgiving for his Maieſties late great <g ref="char:V">Ʋ</g>ictorie over the Rebells in the North.</head>
+               <p>
+                  <hi>O Moſt mightie God, whoſe dwelling is above the Heavens, yet humbleſt thy ſelfe to diſpoſe of all things done either in Heaven or Earth, who in thy unſearchable Iudgements, haſt ſuffered the</hi> Sheba's <hi>of theſe times to blow the Trumpet of Rebellion in every corner of this Land; but withall haſt iuſtly turned this ſufferance of thine into their Ruine;</hi> [True Sirs, Your Rebellious Cavaliers, like ſo many treacherous <hi>Sheba's,</hi> partly by allurements of honour and reward, and partly by force, have provoked every County in this Kingdome to riſe in Rebellion a<g ref="char:EOLhyphen"/>gainſt the King and Parliament, for which as you ſay alſo, they have been utterly rui<g ref="char:EOLhyphen"/>ned, and muſt expect no other either from God or men.] <hi>We praiſe and magnifie thy great and glorious Name, that having given of late to thine Anointed ſo many pledges of thy favour,</hi> [leave your baſe flattery, and tell us what favours they were, that we may be thankfull for them alſo.] <hi>thou haſt yet added to that heap of bleſ<g ref="char:EOLhyphen"/>ſings, a new and notable Victory over the Rebells in the North;</hi> [whereabouts was this your notable <g ref="char:V">Ʋ</g>ictory in the North? at <hi>Hull</hi> you had two ſeverall repulſes with loſſe and ſhame, defeats you had at <hi>Bradforth, Halifax, Leeds,</hi> and <hi>Wake<g ref="char:EOLhyphen"/>field,</hi> and a conſpicuous overthrow at <hi>Selby,</hi> and God to Crown the Parliament with a Bleſſing, gave your <hi>Rupert</hi> and his Aſſociates ſuch a blow at <hi>Yorke,</hi> as never was the like in <hi>England.</hi> But Reader, you muſt underſtand the Cavaliers were thoſe Re<g ref="char:EOLhyphen"/>bels, as in all reaſon and law they are, and then it is moſt true, that the King and Par<g ref="char:EOLhyphen"/>liament had a late, great, new, and notable <g ref="char:V">Ʋ</g>ictorie over the Rebells in the North.] <hi>Go on, O thou God of our Salvation, go on as thou haſt begun;</hi> [theſe wretches deſerve the ſevereſt vengeance, becauſe they pray ſo earneſtly for it, for rather then they will confeſſe an overthrow, they heartily beg for more of the ſame ſauce.] <hi>leave us not we beſeech thee, till thou haſt accompliſh'd the great work thou haſt ſo ap<g ref="char:EOLhyphen"/>parently taken into thine own hands;</hi> [to extirpate you all both root and branch, Amen.] <hi>Paſſe by our perſonall ſinnes,</hi> [of murder and robberie you meane.] <hi>O Lord, though they cry loud,</hi> [louder then all your Drums and Canons.] <hi>heare them not, but look to the righteouſnes of our Cauſe;</hi> [as app<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ares by the ill pro<g ref="char:EOLhyphen"/>ſpering of it, which is confuſion and destruction.] <hi>See the ſeamleſſe coat of thy Son torne,</hi> [by the Prelates, ſcandalous Prieſts and Papists.] <hi>the Throne of thine Anointed trampled on,</hi> [it ſtands yet firme and untouch't in the Houſe of Parlia<g ref="char:EOLhyphen"/>ment.] <hi>thy Church invaded by Sacriledge,</hi> [as you think in the removing of Po<g ref="char:EOLhyphen"/>piſh Jmages, Pictures, Coapes, Organs, and Surplices.] <hi>and thy people miſerably deceived with lies,</hi> [by <hi>Aulicus, Naworth, Digbies,</hi> and <hi>Nicholas</hi> letters, and the
+<pb n="7" facs="tcp:124475:4"/>
+abominable untruths in this book of Mock-Prayers and Thankſgivings.] <hi>See it O God, as ſee it thou doſt,</hi> [to your ſhame and confuſion.] <hi>and Vindicate what thou ſeeſt upon the heads of thoſe, who lead theſe wretches to deſtruction,</hi> [that is your ſelves, in ſeducing and forcing ſilly and ignorant people, to fight for your un<g ref="char:EOLhyphen"/>righteous cauſe and Popery,] <hi>till by their frequent overthrowes,</hi> [which you have had above fifty times.] <hi>if nothing elſe can poſſibly reduce them,</hi> [which will not reduce you, untill you be totally wasted and conſumed, and ſcarce a man of your party be left alive.] <hi>thou haſt ſcourged them into obedience,</hi> [ſo inflexible is your ob<g ref="char:EOLhyphen"/>ſtinacy, that a whip of Scorpions will not bring you to it.] <hi>and tamed theſe enemies of thine and ours into a deſire of Peace,</hi> [which hitherto you have repudiated, un<g ref="char:EOLhyphen"/>leſſe it be upon your own terms, to command all as madly and illegally, as you did before this Parliament began.] <hi>that ſo having at laſt ſubdued their hearts, which is the beſt of Victories,</hi> [your proud and loftie ſpirits muſt be tamed, elſe there is no good to be done.] <hi>thy</hi> David <hi>may returne to</hi> Ieruſalem <hi>in Peace,</hi> [let it be with<g ref="char:EOLhyphen"/>out his Army, and evill Counſellours, which you would bring along with him.] <hi>and thy people once more ioy under his Government,</hi> [which God grant may be ac<g ref="char:EOLhyphen"/>cording to his word, and the lawes of this land.] <hi>bleſſing thy goodneſſe which hath wrought this for us,</hi> [no victory for you there I am ſure.] <hi>through the Mediation of thy Sonne Jeſus Chriſt, to whom with thee and thy bleſſed Spirit, be all praiſe and glory world without end.</hi> Amen.</p>
+               <div type="note">
+                  <p>Reader, obſerve well theſe ſhameleſſe Prelaticall prayers, which are ſtuffed with ſuch abo<g ref="char:EOLhyphen"/>minable lies, that even ſtink in the noſtrils of God and man, and you may have cauſe to wonder, how theſe men dare bring ſuch ſordid traſh before the preſence of Almighty God, and the face of a Chriſtian Congregation, and to profane Churches and Chappels there<g ref="char:EOLhyphen"/>with, which they account holy and ſanctified places. This is Sacriledge in the higheſt de<g ref="char:EOLhyphen"/>gree, and yet their zeale can brooke it better, then to have thoſe places cleanſed from the ragges and trumpery of Popery and Idolatry.</p>
+               </div>
+            </div>
+            <div type="prayer">
+               <head>A Thanksgiving for his Majesties late great Victory over the Rebels in the Weſt.</head>
+               <p>
+                  <hi>O Moſt glorious and powerfull Lord God, without whoſe aide and influ<g ref="char:EOLhyphen"/>ence all our ſtrength is weakneſſe, and our counſell folly</hi> [that influence is taken from you<g ref="char:punc">▪</g> and ſo by your own confeſſions, your counſell is folly, witneſſe your many plots and ſtratagems againſt the Parliament, and City of <hi>London,</hi> which by Gods mercy and goodnes, have been ſtill diſcovered and prevented.] <hi>VVee thy un<g ref="char:EOLhyphen"/>worthy ſervants,</hi> [your wicked actions have alwayes ſhewed you to be ſuch] <hi>in a gratefull commemoration of thy frequent and often repeated bleſſings,</hi> [God ſuffers his Sunne and rain, to ſhine and fall, on the evill and unjuſt, <hi>Mat. 5.45.] with humble and unfained hearts, offer up to thee the Sacrifice of praiſe,</hi> [the Sacrifice of the wicked is abomination: how much more, when hee bringeth it with a wicked minde? <hi>Pro. 21.27,] calling Heaven and Earth to witneſſe with us, that it is thy power alone by which we ſtand,</hi> ['till the appointed time of your down-fall,] <hi>thy ſtrength by which we proſper.</hi> [ſo it ſeemes by the multitudes of ill ſucceſſes you
+<pb n="8" facs="tcp:124475:5"/>
+have conſtantly had.] <hi>Particularly we magnifie thy holy Name O God, for that late great Victory, wherewith thou haſt graciouſly bleſt our Soveraignes Forces in the VVeſt,</hi> [witneſſe the notable Overthrowes they had at <hi>Newbery,</hi> and <hi>Alrez<g ref="char:EOLhyphen"/>ford, &amp;c.] where thou gaveſt not the day to the ſtrong, nor meaſured'ſt out ſucceſſe according to the numbers; but madeſt the weak chaſe the mighty, and an handfull overthrow an Hoaſt;</hi> [moſt true, for how many repulſes, had your great and ſtrong Armies, by the ſmall and weake Garriſons of <hi>Lyme</hi> and <hi>Plymouth?] ſhewing by an evident teſtimony of thy preſence,</hi> [in thoſe two aforeſaid towns,] <hi>that the Arme of fleſh ſtrives in vaine, when the Arme of God doth fight the bat<g ref="char:EOLhyphen"/>tell.</hi> [that made you run away, and leave your ſieges of thoſe places.] <hi>In purſuance of this thy unſpeakable goodneſſe; we humbly begge of thee O Lord, to conti<g ref="char:EOLhyphen"/>nue in all our dangers the like ſpeciall aſſiſtance to us,</hi> [as you prayed for more vengeance after thoſe overthrowes and repulſes; ſo you have received it to purpoſe ſince neere <hi>York] to break the Speare of the diſobedient,</hi> [there you loſt <hi>5000.</hi> men, &amp; <hi>10000.</hi> Armes.] <hi>and melt the hearts of the Rebellious into water,</hi> [the reſt of that Rebellious crew had ſuch watery hearts, that they ran away, ſome by land, and ſome by ſea to <hi>Hamburgh,</hi> and left <hi>Yorke</hi> to be taken by the Parliaments Armies.] <hi>to ſtrike the mindes of the perverſe,</hi> [as that Army of <hi>Ruperts</hi> was ſtricken with ſuch feare, that they ran out of that City by night to ſhift for them<g ref="char:EOLhyphen"/>ſelves] <hi>with a true touch of that Conſcience, which they go about to ſtifle,</hi> [your Conſciences are ſeared, they need no ſtifling.] <hi>and a true ſence of that dutie to thine Anointed,</hi> [if you had that ſence, you would not ſtrive to undoe him, and his Posteri<g ref="char:EOLhyphen"/>tie and Kingdomes.] <hi>which they labour to forget,</hi> [you have gotten it indeed elſe you would not doe ſo,] <hi>that we thy miſerable and diſtreſſed people, may no longer groan under thoſe heavie Judgements,</hi> [you have violently drawne them downe upon your ſelves, and this miſerable distreſſed Nation,] <hi>which our ſinnes have pul<g ref="char:EOLhyphen"/>led downe upon us.</hi> [a full confeſſion; but where is your repentance and amendment ſince?] <hi>but may at laſt be re-united and knit in the happines of a long wiſh't for Peace,</hi> [which you reiect by further contumacy and rebellion.] <hi>and with one mind, in the ſame true Religion, worſhip thee the onely God,</hi> [you meane with your Ceremonies of cringings, Altars, and will-Worſhip.) <hi>and obey our King whom thou haſt ſet over vs:</hi> [in what he ſhall command, in Juſtice, Equity, and Righte<g ref="char:EOLhyphen"/>ouſneſſe,] <hi>grant this O mercifull Father, for thy deare Sonnes ſake, who raigneth with thee, and thy holy Spirit, world without end.</hi> Amen.</p>
+               <div type="note">
+                  <p>Obſerve Reader, That theſe Prelaticall Prayer-mongers and their adherents are true <hi>Ada<g ref="char:EOLhyphen"/>mites,</hi> for though they have wrought worlds of miſchiefe in beginning, and ſomenting this unnaturall War amongſt us, yet they would make the ſtupid people beleeve, that they are innocent and cleare from thoſe heynous exorbitances, and like <hi>Adam,</hi> transferre their ſinnes from themſelves, upon the backs and conſciences of thoſe, that only take up defen<g ref="char:EOLhyphen"/>ſive Armes againſt them: but that will not ſerve their turnes, for though they ſtrive to palliate their ſubtill crimes, yet God hath, and will every day more and more detect and diſcover them, and will without queſtion turne their wickedneſſes upon their own heads.</p>
+               </div>
+            </div>
+            <div type="prayer">
+               <pb n="9" facs="tcp:124475:5"/>
+               <head>A Thanks-giving for the Queenes ſafe returne.</head>
+               <p>O Moſt mercifull Lord God, wee farther render thee all praiſe and thankes, for that thou haſt been pleaſed ro extend thy hand of deliverance unto the perſon of our gracious Queene, <hi>[are they Proteſtant or Popiſh graces?]</hi> that thou haſt made her an inſtrument of ſo much good to this Kingdome, <hi>[this is a French Ironie, for you ſpeake contrary to your meaning and knowledge. I know not to give flattering titles, ſaid</hi> Iob 32.22.] and brought her ſafely hither, through ſo many dangers both by ſea and land, <hi>[ſhe came with a great Convoy of Dutch Ships by Sea, and paſſed through no places by land, but the Kings Garriſons, guarded with a ſtrong Army, where was the danger you ſpeak of?]</hi> Lord make the King and his People daily more and more happy in her, <hi>[this is a prayer for the future, what paſt, or preſent happines have we enjoyed?]</hi> that as by thine eſpeciall favour ſhe is already become the mother of ſo many hopefull Princes, <hi>[if two of them were not now nurtured amongst Prelates, Papists, and debauched ſouldiers.]</hi> ſo ſhee may be daily fruitfull in the addition of more bleſſings to us, <hi>[I pray let them be better then thoſe we have hitherto received],</hi> through Ieſus Chriſt our Lord, to whom with thee and the holy Ghoſt, be all honour and glory, world without end, <hi>Amen. [I was horribly afraid theſe Prayer-mongers would have given the Queene thankes in this Prayer alſo.]</hi>
+               </p>
+               <div type="note">
+                  <p>Reader, few words are beſt, becauſe the Queen is not here now, and cannot anſwer for her ſelf, and therefore I can lay nothing to her preſent charge, but conſider the good ſhe hath done to this Kingdom; (<hi>I</hi> will except her good to <hi>Ireland</hi> and <hi>Scotland</hi>) ſhe carried her daughter from hence to her husband in <hi>Holland,</hi> and becauſe ſhee had not ready money to defray her charges there, ſhee carried with her a few trifling Jewells, and the Cubbord of gold Plate, which the Law ſaith, belonged to the Kingdom, and hearing the diſtractions amongſt us to increaſe, and the Cavaliers and Papiſts to grow numerous, ſhee made bold (with a good meaning no doubt) to pawne, or ſell thoſe Jewells and Plate, and with the moneys ariſing from them, bought Armes, Ammunition, and Ordnance, and kindly ſent them to us, to beat the Prelates, Papiſts, Cavaliers, and Iriſh Rebells out of <hi>England.</hi> And was ſhe not herein an Inſtrument of much good to this Kingdom? As for thoſe Rivers of Proteſtants blood that hath been ſhed by this means, you muſt think it is a toy to a Ca<g ref="char:EOLhyphen"/>tholike Queen, and not to be eſteemed, ſo ſhe gain her ends, and advance that Cauſe and Faction. Here is the happineſſe, here are the bleſsings this Nation hath reaped by ſuch an Inſtrument of good. More may be ſaid, but I leave all true Proteſtants to their owne Meditations.</p>
+               </div>
+            </div>
+            <div type="prayer">
+               <head>A Hymne or Generall Thanks-giving.</head>
+               <p>GLory be to God on high, <hi>[your Mock-prayers defraud him of his glory.]</hi> and in earth Peace, [<hi>not in</hi> England, Scotland, <hi>and</hi> Ireland, <hi>by your conſents.</hi>] good will towards men. <hi>[to what men, Papiſts or Proteſtants, Cavaliers or Round heads, to him that ſweareth, or to him that feareth an Oath?]</hi> We praiſe thee, We bleſſe thee, We worſhip thee, We glorifie thee; <hi>[Softly, leſt you want breath, and thank the old Common prayer-book for this.]</hi> and at this time, in a more ſpe<g ref="char:EOLhyphen"/>ciall
+<pb n="10" facs="tcp:124475:6"/>
+manner, with the higheſt expreſſions of our devouteſt hearts, <hi>[true devotion and your mockery are incompatible.]</hi> We moſt humbly give thanks unto thee, for that thou haſt bin pleaſed out of thine infinite goodnes mercifully to look down upon the late low eſtate of our gracious Soveraigne; [<hi>Your brethren in</hi> London, <hi>have alwayes told us that the Cavaliers Armies were Potent and Numerous.</hi>] That haſt brought him from ſo much ſcornefull neglect, [<hi>of his Nephew</hi> Rupert, <hi>and other of his Souldiers, that would plunder and commit outrages, notwithstanding his Inhibition.</hi>] to appeare ſo terrible unto thoſe deſperate Rebells, who dare yet ſtand in Armes againſt him; <hi>[ridiculous Thunder-clap, will you turne the Kings countenance into a hideous form?]</hi> That thou haſt bleſt him with many, and thoſe eminent victories, and particularly, for thoſe great defeats which by his Armies thou haſt given unto his enemies in the <hi>North,</hi> and in the <hi>Weſt.</hi> [Rupert, Maurice, Newcaſtle, <hi>and</hi> Hopton <hi>will tell the truth and ſhame the devill.</hi>] O Lord God, hea<g ref="char:EOLhyphen"/>venly King, God the Father Almighty, O Lord, the onely begotten Son Jeſus Chriſt, continue theſe thy favours to us, <hi>[of continuall loſſes and defeats, as hither<g ref="char:EOLhyphen"/>to you have had, O obdurate hearts, that pray for wrath and judgement upon them<g ref="char:EOLhyphen"/>ſelves.]</hi> and perfect we beſeech thee, that glorious worke, the happy peace of this land, which none but thine own ſtrength can finiſh, <hi>[you plead guiltie and confeſſe your war inglorious, and yet ſhun that happy Peace.]</hi> And to that end, Thou that takeſt away the ſins of the world, take this foule ſin of Rebellion from us, <hi>[a plain confeſſion, but 'tis not ingenious, becauſe you continue ſtill Rebellious.]</hi> Thou that ſit<g ref="char:EOLhyphen"/>teſt at the right hand of God the Father, ſmite through the loynes of thoſe Sacri<g ref="char:EOLhyphen"/>legious men, who have not ſpared at all to prophane thy Houſe and thy Service; <hi>[with Atars and Idols, Pictures and Images, duckings, and too much curteſie, too much craft.]</hi> So ſhall we ſtill bleſſe thy Name in the midſt of the great Congregation; <hi>[you meane of Biſhops, Deanes, &amp;c. clad in rich Coapes, and their Pontificalibus, with loud and high ſounding muſicke.]</hi> So ſhall wee thy ſervants never ceaſe to be ſtill prayſing thee and ſaying, Thou onely art Holy, Thou onely art the Lord, Thou onely O Chriſt, with the holy Ghoſt, art moſt high in the glory of God the Fa<g ref="char:EOLhyphen"/>ther. To thee be all praiſe and honor &amp; glory aſcribed world without end. <hi>Amen. [Smooth as Butter or Oyle. Thou ſhalt not take Gods Name in vain.</hi> Exod. 20.]</p>
+               <div type="note">
+                  <p>
+                     <hi>Reader, obſerve how fitly the latter part of the 50.</hi> Pſalme <hi>may be applyed to theſe Prelaticall prayer-mongers and their abbettors, from the 16. verſe to the end, in theſe words:</hi> But unto the wicked God ſaith, what haſt thou to declare my Sta<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>tes, or that thou ſhouldeſt take my Covenant in thy mouth? Seeing thou hateſt inſtruction, and caſteſt my words behinde thee. When thou ſaweſt a chi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>fe, then thou conſentedſt with him, and haſt been partak<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>r with Adulterers. Thou giveſt thy mouth to evil, and thy tongue frameth deceit. Thou ſitteſt and ſpeakeſt againſt thy brother: thou ſlandereſt thine own mothers ſon. Theſe things haſt thou done, and I kept ſilence: thou thoughteſt that I was altogether ſuch a one as thy ſelf; but I will reprove thee, and ſet them in order before thine eyes. Now conſider this ye that forget God, leſt I teare you in pieces, and there be none to deliver. Whoſo offereth <hi>[true]</hi> praiſe, glorifieth me: and to him that ordereth his converſation aright, will I ſhew the Salvation of God.</p>
+               </div>
+            </div>
+            <div type="prayer">
+               <pb n="11" facs="tcp:124475:6"/>
+               <head>A Prayer to be ſaid during theſe times of trouble.</head>
+               <p>O Lord our God, Mercifull and Gracious, and abundant in good<g ref="char:EOLhyphen"/>neſſe and truth, who do'ſt according to thy will in the Armies of hea<g ref="char:EOLhyphen"/>ven, and ruleſt over all the Kingdomes of the earth; in whoſe hand is power and might, and none is able to withſtand thy Arme; <hi>[which, though you have ſorely felt ſince your Rebellion, yet you would never acknowledge it a<g ref="char:EOLhyphen"/>gainſt you.]</hi> We moſt vile ſinners approach before thy Throne of Grace, bewailing thoſe manifold tranſgreſſions that have provoked thy wrath and indignation againſt us. [<hi>here are more of their Confeſſions, but ſtill without amendment; whoſo confeſſeth &amp; forſaketh his ſins, ſhall have mercy,</hi> Pro. 28.13] VVee know, O Lord, that affliction cometh not forth of the duſt, neither doth trouble ſpring out of the ground, but it is thou that with rebukes do'ſt chaſten man for ſinne. VVee confeſſe that we were a wealthy and a care<g ref="char:EOLhyphen"/>leſſe Nation <hi>[vntill you by your plundering and robbery impovereſhed it,]</hi> and our land was as the garden of <hi>Eden; [untill you wasted it, by making ha<g ref="char:EOLhyphen"/>vock both of man and beaſt, that ſhould have manured it.]</hi> our deliverances were great, and thy bleſſings were multiplied, <hi>[and yet you never take them to heart, to be truely thankfull for them.]</hi> VVee dwelt alone without feare of evill, <hi>[that was your ſecuritie and careleſneſſe,]</hi> and were become the Envy of thoſe that were round about us. <hi>[and now you have made us the ſcorne and deriſion of all Nations.]</hi> Peace was within our walles, [<hi>why did you break it? Firſt in</hi> Scotland, <hi>next in</hi> Ireland, <hi>and now in</hi> England?] and plenteouſneſſe within our Pallaces. [<hi>the too great plenty in the Biſhops Pallaces, made them begin their</hi> Bellum Epiſcopale.] But when we had eaten and were full, and had waxen fat, we kicked againſt thee our Maker, who had'ſt done ſuch great things for us, <hi>[you were alwayes like the Rebellious Jewes.]</hi> our heart was lifted up, <hi>[and in that loftineſſe your hearts remaine ſtill.]</hi> and forget thee our God, <hi>[when did you ever remember him?]</hi> and lightly eſteemed the Rocke of our ſalvation. <hi>[ſo it ſeemeth by your forſa<g ref="char:EOLhyphen"/>king of him, and turning to Idolatry.]</hi> We loathed the <hi>Manna</hi> that raigned downe upon us; [<hi>you indeed ever loathed the</hi> Manna <hi>of ſincere Praying, and ſound Preaching,</hi>] our Peace became a wearineſſe, <hi>[that made you runne out into a bloody warre.]</hi> and wee ſnuffed at our happineſſe, <hi>[the more to blame you that could not ſee when you were well.]</hi> we murmured againſt <hi>Moſes</hi> in our tents, <hi>[and put honeſt Rulers, Priuy Councellers, Magiſtrates, and Justices of Peace out of their places.]</hi> and made light of thy Anoynted whom thou had'ſt ſet over us. <hi>[unleſſe hee would bestow honour and wealth
+<pb n="12" facs="tcp:124475:7"/>
+upon you.]</hi> Therefore hath thou recompenced our wayes upon our owne heads, <hi>[very juſt.]</hi> and ſuffered our deſtruction to proceed from our ſelves: <hi>[you never judged right for your ſelves till now.]</hi> our wickedneſſe doth correct us, our backſliding doth reprove us, and our iniquitie is be<g ref="char:EOLhyphen"/>come our ruine. <hi>[can you ſee all this and not leave your ſinfull courſes? let ruine then conſume you.]</hi> Thou haſt broken upon us with a grievous breach; <hi>[in the ſlaughter of thouſands of your Partiſans.]</hi> thy anger hath divided us, <hi>[as it will be at the end of the world, the Sheep from you the Goats.]</hi> and thy fury hath daſhed us one againſt another. <hi>[ſo that your braines fall out.]</hi> Thou haſt mingled a Spirit of perverſneſſe in the mid'ſt of us; <hi>[which makes you ſo refractory.]</hi> and made us a Nation void of Councell and un<g ref="char:EOLhyphen"/>derſtanding: <hi>[that's falſe, for you have Councell and understanding enough to contrive Plots, Conſpiracies, and Treacheries; but to good they are totally infa<g ref="char:EOLhyphen"/>tuated.]</hi> in ſtad of Peace, thou haſt ſent bitternes, <hi>'tis you that have chan<g ref="char:EOLhyphen"/>ged a Calme into a Storme, and turned Wormwood into Gaule.]</hi> and haſt ſent a fire into our bowels, and it is kindled round about us.] <hi>remember which of your party hath fired Townes and houſes.]</hi> And now, O'Lord, be<g ref="char:EOLhyphen"/>hold the Sword is drunk with our blood, <hi>[of the Proteſtants in</hi> England <hi>and</hi> Ireland.] and we are numbred to the ſlaughter; <hi>[a juſt rcompencee for your ſhedding it.]</hi> the high wayes are unoccupied, <hi>becauſe you hinder Commerce and trading.</hi>] and the travellers go thorow by-paths: <hi>[leſt they ſhould fall into your hands.]</hi> our fields are divided, our inheritance is for a ſpoile, <hi>[becauſe you have ſhared the Proteſtants lands amongſt you.]</hi> and our ſubſtance to the Robbers, [<hi>ſuch as</hi> Rupert, Capell, Haſtings, <hi>&amp;c.</hi>] We are become a re<g ref="char:EOLhyphen"/>proach to the fooliſh people, <hi>[becauſe you delude them with lies, and Mock-victories.]</hi> and ſervants bear rule over us, <hi>[ſuch as Endymion Porter, Da<g ref="char:EOLhyphen"/>vis the Barber, &amp;c.]</hi> The mean man is riſen againſt the Honourable, <hi>[that is, the poor ragged Welch men againſt the Parliament.]</hi> and the fire out of the Bramble devoureth the lofty Cedars, <hi>[the fire out of the Parliaments Guns hath abated the pride of ſome of your Nobles.]</hi> our women are caſt out of their pleaſant places, <hi>[by your Deflouring and Raviſhing them.]</hi> and the robe is pulled off from the aged; <hi>[witneſſe your robbing of old Maſter</hi> Dod <hi>of his gowne in</hi> Northamptonſhire.] there is no reſpect had to the Prieaſt, <hi>[of Baall you meane.]</hi> nor favour to the Elders. <hi>[the Biſhops and Deanes you conceive.]</hi> Thy Sanctuaries, the excellency of thy ſtrength, are pro<g ref="char:EOLhyphen"/>phaned; <hi>[by the ſaying of your Mock prayers, and Thanksgiving in them.]</hi> and they have defiled the places where thine Honor dwelleth, <hi>[which the Cavaliers did at</hi> Kingſton <hi>upon</hi> Thames, <hi>and</hi> Plympton, <hi>by making them a jakes, and ſtables for their Horſes.]</hi> and yet ſtill the ſeat of wickednes fra<g ref="char:EOLhyphen"/>meth
+<pb n="13" facs="tcp:124475:7"/>
+miſchief by a Law, <hi>[true, you have done all your villanies by the known Laws of the land.]</hi> and it turneth iudgement backward, <hi>[when the runa<g ref="char:EOLhyphen"/>wayes voted in their Anti-Parliament at</hi> Oxford.] and biddeth Iuſtice ſtand a farre off; <hi>[as the Cavalier Governours over Cities and Corporations doc.]</hi> and deviſeth deceitfull matters againſt thoſe that are quiet in the land. <hi>for which deviſings both</hi> Tompkins <hi>and</hi> Challoner <hi>were hanged at quiet</hi> London.] Nay, there is a lying ſpirit gone out into the mouthes of the Prophets; <hi>[witneſſe the Prelaticall Prayer-mongers, that made this lying book for their no victories.]</hi> they propheſie falſly, and the people delight to have it ſo, and they ſtrengthen the hands of evill doers, that they turne not back from their wickedneſſe. <hi>[your Cavaliers and Grandees delight in ſuch falſities, whereby you ſtrengthen the hands of your evill party, and keepe them in their wickedneſſe, by upholding them with theſe lyes,]</hi> Thus are wee covered with a cloud in thine anger, <hi>[a cloud of lies and impieties to ſeduce the igno<g ref="char:EOLhyphen"/>rant people.]</hi> and our beautie is caſt downe to the ground. <hi>[ever ſince the Lady</hi> Thynne <hi>was disgraced at</hi> Oxford.] But O Lord, ſhall thine indig<g ref="char:EOLhyphen"/>nation be powred out for ever? ſhall thy iealouſie burne like fire? <hi>['tis but according to your deſerts, but eſpecially for theſe abrupt and ſhameleſſe expoſtu<g ref="char:EOLhyphen"/>lations.]</hi> O paſſe by the tranſgreſſions of the remnant of thine heritage, <hi>[which you are not, though you have loſt many thouſands of your party.]</hi> and take away the rebuke of thy people, <hi>[that they may be no more over-topped by the Prelates and Cavaliers.</hi>] O remove from us reproach and con<g ref="char:EOLhyphen"/>tempt; <hi>[reſpect belongs only to the worthy.]</hi> and ſtrengthen the ſpoyled againſt the deſtroyers. <hi>[that is, the ſpoyled true Protestants, againſt the de<g ref="char:EOLhyphen"/>ſtroying Atheiſts, Cavaliers, Papiſts, and Iriſh Rebells]</hi> Bow downe thine eare, and conſider the oppreſſion of the poore, and the ſighing of the nee<g ref="char:EOLhyphen"/>dy, <hi>[whom you have robbed of all their goods and ſubstance.]</hi> the groaning of the Priſoners, that are faſt bound in miſery and iron. [<hi>in</hi> Oxford, <hi>and and in your other Garriſons.</hi>] Lift up thy ſelfe, becauſe of the rage of thine Adverſaries: conſider the deſolation they have made in thy Courts, and all that the enemy hath done wickedly in thy Sanctuary. <hi>[in your defiling them with Altars, Images, Pictures, and with Horſe and mens dung.]</hi> And yet ſtill they are compaſſed with pride, and clothe themſelves with violence as with a garment. <hi>[you have violently robbed Clothiers of their cloath to make you garments.]</hi> How long, O Lord, ſhall they boaſt themſelves in miſchiefe? how long ſhall they decree unrighteous Decrees, and write grievouſneſſe, which they have preſcribed? <hi>[you have done it too long, in forcing poore peo<g ref="char:EOLhyphen"/>ple to ſerve you, and laying heavy Taxes upon the Counties under your power.]</hi> O make not a full end with us, <hi>['tis pitty to ſpare one man of you.]</hi> but cor<g ref="char:EOLhyphen"/>rect
+<pb n="14" facs="tcp:124475:8"/>
+us in mercy, <hi>[the mercifull ſhall have mercy, but your cruelty cries for vengeance.]</hi> though thou leave us not altogether unpuniſhed. <hi>[you deſire then a little ſcourging, for your abominations.]</hi> Help us O Lord our God, for we reſ on thee, <hi>[that's falſe, for had you not ſolely relied upon your owne ſtrength, you durſt not have acted ſuch iniquities.]</hi> and under the ſhadow of thy wings ſhall be our refuge, untill this Tyranny be over-paſt. <hi>[tell us when you meane to ceaſe it.]</hi> Diſappoint therefore the devices of the crafty; <hi>[you have been ſufficiently caught in your owne ſnares.]</hi> Let not the Rebelli<g ref="char:EOLhyphen"/>ous exalt themſelves any more, <hi>[you have ſhrewdly gone down the winde of late,]</hi> and ſuffer not the Tabernacles of the Robbers to proſper. [<hi>what then will become of</hi> Rupert's <hi>Dukedome of</hi> Cumberland, <hi>and</hi> Haſtings <hi>Barony of Loughborough?</hi>] And as thou haſt begun to ſhew thy ſervants thy great<g ref="char:EOLhyphen"/>neſſe, and thy mighty hand: <hi>[in conſounding and deſtroying your Armies.]</hi> ſo continue thy marvellous loving kindneſſe to thoſe that put their truſt in thee. <hi>[in the ſame manner and meaſure of ruine, as you received it before.]</hi> The batell is thine, O Lord, thou haſt preſerved us from the arme of fleſh; <hi>the Parliaments Armies found this most true on their ſides, at</hi> Edge-hill, New<g ref="char:EOLhyphen"/>bery, Alresford, and lately neere <hi>Yorke.</hi>] Yea, it is thou that haſt wrought all our works in us, even when there was no might againſt that great com<g ref="char:EOLhyphen"/>pany that came egainſt us. <hi>[the Parliaments Armies never ſought yours, but yours alwayes came to ſurprize theirs.]</hi> When we were few in number, and there was none to help us, then thine own Arme brought ſalvation, and thy Righteouſneſſe ſuſtained us. <hi>[Set the Saddle on the right horſe, and apply this to the Parliaments Forces, whom Gods Arme and Righteouſneſſe ſaved and ſuſtained.]</hi> O perfect therefore thy handy-work. <hi>[upon the Parliament, and thoſe that truely love and adhere to them, you ſhould ſay, unleſſe you pray for more vengeance upon your ſelves.]</hi> Give ſalvation to our King, and deliver CHARLES thy ſervant from the perill of the ſword; binde up his ſoul in the bundle of life, <hi>[we wiſh this more ſinceerely then you doe, becauſe you lead him into danger, which wee deſire him to avoid.]</hi> gird him with ſtrength to the Battell, <hi>[againſt ſeducing Papists, and evill Counſellors.]</hi> contend with thoſe who contend with him; [<hi>to bereave him of bis Crowne in</hi> Ire<g ref="char:EOLhyphen"/>land] ſubdue thou the People under him, <hi>[no true Protestant ſtirres againſt him.]</hi> and ſuffer no weapon formed againſt him to proſper, <hi>[that which is done ogainſt you, you make him beleeve, is done againſt him.]</hi> O deliver him at length from the ſtrivings of the People, and lift up his head above his ene<g ref="char:EOLhyphen"/>mies round about him; <hi>[that are you, and your Aſſiſtants.]</hi> give him the ſhield of thy ſalvation, and let thy gentleneſſe make him great; <hi>[and fa<g ref="char:EOLhyphen"/>mous againſt forreign Enemies.]</hi> put a ſtop at laſt to the madneſſe of the
+<pb n="15" facs="tcp:124475:8"/>
+people, <hi>[that they may no more run a whoring after your Ceremonies, and ſuperſtitions.]</hi> ſay to the deſtroying ſword, it is now enough: <hi>I wiſh you would ſay ſo alſo.</hi>] ſend us a ſeaſonable and bleſſed calme <hi>[upon your owne Termes, or elſe you will not care for it.]</hi> Viſit us with the joy of thy Coun<g ref="char:EOLhyphen"/>tenance, and make us glad according to the dayes wherein thou haſt af<g ref="char:EOLhyphen"/>flicted us. <hi>[You have made many weeping eyes, and muſt expect Retalation.]</hi> O reſtore to us our Solemne Aſſemblies <hi>[in Cathedralls you mean, with pompe and vanity.]</hi> bring us back into thy Courts, to praiſe thee, <hi>[with as little ſincerity, and as much diſſembling, as you doe in this Mock-prayer-book.]</hi> and let us once more worſhip thee in the beauty of thy holyneſſe. [<hi>You have too much liberty yet to doe that after your manner, in the Miniſters of</hi> Briſtoll, Cheſter, Exceſter, Lychfeild, Oxford, <hi>and</hi> VVorceſter.] Save us O Lord from our Enemies, and from the hands of all that hate us. <hi>[your crying and enormous ſinnes are hated, not your Perſons.]</hi> That ſo wee may ſerve thee, without feare, <hi>[of diſturbance in your Formalities, you meane.]</hi> living a quiet and peaceable life, <hi>[why did you then raiſe cumbuſtions in the three Kingdomes, to diſquiet that Peace?]</hi> looking for the bleſſed appearance of the great God, and our Saviour JESUS CHRIST <hi>[had you been truly pre<g ref="char:EOLhyphen"/>pared for his comming, you would have feared to break out into theſe di<g ref="char:EOLhyphen"/>ſtempers.]</hi> To whom with Thee and thy Holy Spirit, be all Honour and Praiſe, world without end. <hi>AMEN.</hi>
+               </p>
+               <epigraph>
+                  <q>
+                     <l>Much may be ſaid, but briefly to conclude,</l>
+                     <l>They much have ſaid, but onely to delude.</l>
+                  </q>
+               </epigraph>
+            </div>
+            <div type="conclusion">
+               <head>God heareth no Diſſemblers.</head>
+               <p>
+                  <hi>Witneſſe the Cavaliers many Overthrows, Defeats, totall Routs, leſſe of Townes, Caſtles, Houſes, loſſe of Men, Horſe, Ordinance, Armes, Ammunition, and Baggage.</hi> viz. AT</p>
+               <list>
+                  <item>Hull, twice.</item>
+                  <item>Portſmouth.</item>
+                  <item>Chicheſter.</item>
+                  <item>Edge-hill.</item>
+                  <item>Saltheath.</item>
+                  <item>Redding.</item>
+                  <item>Caverſh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>m bridge.</item>
+                  <item>Gloſter ſiege.</item>
+                  <item>Alborne Chaſe.</item>
+                  <item>Newbery.</item>
+                  <item>Modbery.</item>
+                  <item>Nottingham.</item>
+                  <item>Chriſt-Church.</item>
+                  <item>Barnſtaple.</item>
+                  <item>Taunton Caſtle.</item>
+                  <item>Newport Pagnel.</item>
+                  <item>Horne-Caſtle.</item>
+                  <item>Mancheſter.</item>
+                  <item>Thurland Caſtle.</item>
+                  <item>Burton upon Trent.</item>
+                  <item>Arundell Caſtle.</item>
+                  <item>Aulton.</item>
+                  <item>Alresford.</item>
+                  <item>Namptwich.</item>
+                  <item>
+                     <pb n="16" facs="tcp:124475:9"/>Elſmere.</item>
+                  <item>Lyn.</item>
+                  <item>Lincolne cloſe.</item>
+                  <item>Col. Maſſeys 8. garriſons.</item>
+                  <item>Oſwelſtrey.</item>
+                  <item>Tewksbury.</item>
+                  <item>Sunderland.</item>
+                  <item>South Wales.</item>
+                  <item>Kings Mills.</item>
+                  <item>VVilne Ferry.</item>
+                  <item>Dudley Caſtle.</item>
+                  <item>Egginton heath.</item>
+                  <item>Rusſhel Hall.</item>
+                  <item>The bridges neer Oxford</item>
+                  <item>Edgcot.</item>
+                  <item>Grafton houſe.</item>
+                  <item>Sir Alexander Dentons houſe.</item>
+                  <item>Greenland houſe.</item>
+                  <item>Plymouth.</item>
+                  <item>Lyme.</item>
+                  <item>Weymouth.</item>
+                  <item>Selby.</item>
+                  <item>York.</item>
+                  <item>VVakefield.</item>
+                  <item>Taveſtok.</item>
+                  <item>Tickhill Caſtle,</item>
+                  <item>VVelch poole.</item>
+                  <item>Sheffeld Caſtle.</item>
+                  <item>VVareham.</item>
+                  <item>Bolſover caſtle.</item>
+                  <item>VVelbeck houſe.</item>
+                  <item>Staley Garriſon.</item>
+                  <item>Hartlepoole.</item>
+                  <item>Stockton caſtle.</item>
+                  <item>Barnſtable.</item>
+                  <item>Malmsbury.</item>
+                  <item>Saltaſhe.</item>
+                  <item>Greenvilhouſe.</item>
+                  <item>Foy-harbour.</item>
+                  <item>VVinfield Mannor.</item>
+                  <item>
+                     <hi>Cum multie alijs, que nuuc preſcribire <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> gun<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> eſt.</hi>
+                  </item>
+               </list>
+            </div>
+            <div type="prayer">
+               <p>NOw Reader, conſidering the premiſes, you finde, what a Meſſe of Prelaticall Mock-prayers and Thanks-givings are included in this booke, to del<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> man. They may, and doe diſſemble with God, deceive him they cannot, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> therefore they have bin rewarded for their diſſimulation with God, and che<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ing of ſimple and ignorant people, as appeares by all their before recited defeat<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> loſſes; bcauſe I found in theſe Cavalier Mock devotions many lies, ſlanders, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> reproches againſt the Parliament, I have according to my duty vindicated th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> and all that truely love, honour, and fight for them, and ſet the ſad<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> on the Cavaliers right horſe, applying their owne words and prayers to themſelves, to whom the moſt of them properly and pertinently belong <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſuits ſo well, that (in truth) they fit none ſo well as themſelves. If any ſhall object, as I expect many on their ſide will, that I too ſharpely nippe their Pray<g ref="char:EOLhyphen"/>ers and Thanks-givings, let them underſtand, that Deluſions, Lies, Mocke<g ref="char:EOLhyphen"/>ries, Defamations, and Slanders, eſpecially in Prayers and Thanks-givings, a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> moſt odious to God, and all good men, and indeed are no Prayers nor Thanks, but meer Farragoes of helliſh malice and virulency. To conclude, I deſire the Reader to take ſpeciall notice of the deſperatenes, of theſe men, who rather then they will confeſſe a loſſe or defeat, and ſuffer the people to know the truth, they call and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> for continuance &amp; increaſe of direfull vengeance upon their owne heads. Let <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> pray, that God would, if he ſee good, open their eyes, and turne their hearts, that they may repent and amend.</p>
+               <closer>Amen.</closer>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
